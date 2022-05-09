@@ -1,0 +1,7 @@
+PREFERENCES
+--
+Movie: They Fought for Their Country;
+TVshow: The Expanse;
+Food: Chicken with potatoes;
+Season: Summer & Winter;
+Country: Georgia.

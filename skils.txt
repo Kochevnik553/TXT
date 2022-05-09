@@ -1,0 +1,7 @@
+SKILS
+--
+Skil1: GitBash;
+Skil2: JavaScript;
+Skil3: Hub;
+Skil4: Client-Server architecture</Skil>
+Skil5: to be continued ...
