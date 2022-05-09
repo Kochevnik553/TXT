@@ -1,1 +1,10 @@
-
+BUGREPORT
+--
+  ID:00000000000001;
+  Title: Insert title;
+  Step to reproduce: Insert steps;
+  Actual result: Indicate actual result;
+  Expected result: Indicate expected result;
+  Severity: Choose severity;
+  Pryority: Choose priority:
+  Author: Check yourself.
