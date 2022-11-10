@@ -1,0 +1,8 @@
+PREFERENCES
+--
+Movie: They Fought for Their Country;
+TVshow: The Expanse & The terminal list;
+Food: buckwheat with meat;
+Season: Summer & Winter;
+Country: Georgia & Spain.
+

@@ -1,0 +1,9 @@
+SKILS
+--
+Skil1: GitBash;
+Skil2: JavaScript;
+Skil3: Git Hub;
+Skil4: Client-Server architecture;
+Skil5: Testcases, checklists, bug reports;
+to be continued ...
+
