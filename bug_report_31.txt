@@ -1,0 +1,13 @@
+BUGREPORT
+--
+  ID:01;
+  Title: Insert title;
+  Environment: Google Chrome;
+  Precondition: insert precondition;
+  Step to reproduce: Insert steps;
+  Actual result: Indicate actual result;
+  Expected result: Indicate expected result;
+  Severity: Choose severity;
+  Pryority: Choose priority;
+  Attachments: paste link;
+  Author: Check yourself.
